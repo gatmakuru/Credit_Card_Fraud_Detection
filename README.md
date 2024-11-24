@@ -28,7 +28,7 @@ the privacy and security of the data used for training and testing the model.
 - To increase awareness about the prevalence of credit card fraud and the importance of using advanced technology to prevent it.
 ---
 
-**RESEARCH PAPAER**
+**RESEARCH PAPER**
 
 **ABSTRACT**
 
