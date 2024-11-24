@@ -1,12 +1,9 @@
 # Credit_Card_Fraud_Detection
-Due to the potential for huge financial losses, credit card theft is a serious problem for both  financial institutions and consumers.  Algorithms that use machine learning are frequently 
-used to identify fraudulent credit card transactions. The Naive Bayes, Logistic Regression, K-Nearest Neighbors (KNN), and Decision Tree machine learning methods for credit card fraud 
-detection are examined in this research. A dataset on actual credit card fraud was used for the study. This study's major goal is to evaluate the algorithms abilities to spot fraudulent 
-transactions by contrasting and comparing them. The findings show that, though with variable degrees of success, all four algorithms may be used to detect credit card fraud. This study adds to the body of knowledge by revealing information on how well various machine learning algorithms work to identify credit card fraud. The main goal is to identify fraud by filtering 
-the aforementioned methods to get a better result.
-
-Keywords: Credit Card, Fraud Detection, Logistic Regression, Decision Tree, KNN, Naïve-Bayes, Streamlit, MLP, Accuracy, Precision, F1-Score, support, Recall, Macro average, 
-Weighted average.
+In the digital age, credit card fraud is becoming more and more common. Criminals are using new ways of stealing credit card data and making unauthorized purchases as a result of the 
+increase in online shopping and electronic payment systems. The financial and personal impact of credit card frauds can be significant, which is why it is important to identify and 
+prevent them in the first place. To identify fraud with credit cards, we intend to analyze a wide variety of features of the transaction including card number, CVV, expiry date, repeat 
+retailers, used chip and PIN as well as online order history using machine intelligence techniques. In order to avoid financial losses on both the part of individuals and a financial 
+institution, it is aimed at developing an accurately and effective model that can spot fraud in real time
 
 **OBJECTIVES**
 - To detect fraudulent activities in credit card transactions and predict the result.
