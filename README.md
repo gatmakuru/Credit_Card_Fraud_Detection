@@ -5,7 +5,7 @@ prevent them in the first place. To identify fraud with credit cards, we intend 
 retailers, used chip and PIN as well as online order history using machine intelligence techniques. In order to avoid financial losses on both the part of individuals and a financial 
 institution, it is aimed at developing an accurately and effective model that can spot fraud in real time
 
-**OBJECTIVES**
+**### OBJECTIVES**
 - To detect fraudulent activities in credit card transactions and predict the result.
 - Compare some efficient machine learning algorithms, find better accuracy, and suggest a model.
 - Visualize dataset through model graphs using Python libraries.
